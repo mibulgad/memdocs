@@ -77,6 +77,7 @@ A new license is now available that lets Configuration Manager customers with So
 
 - The licensing that you previously had for System Center Configuration Manager still applies to Microsoft Endpoint Configuration Manager. If installing a new site, use existing product keys.
 
+
 ### <a name="bkmk_ems-expires"></a> I have Enterprise Mobility + Security and it expired, what must I do now?  
 
 EMS grants rights to use Configuration Manager current branch and long-term service branch. When these rights expire, you no longer have rights to use either branch and must uninstall.  
