@@ -168,6 +168,7 @@ To enable co-management starting in Configuration Manager version 1906, follow t
 
 [!INCLUDE [Enable Co-management in version 1906 and later](includes/enable-co-management-1906-and-higher.md)]
 
+
 ### Enable co-management in version 1902 and earlier
 
 To enable co-management for Configuration Manager version 1902 and earlier, follow the instructions below:
